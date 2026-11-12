@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+service-account.json
+# Local test UI (kept out of the backend deliverable)
+public
+*.log
+firebase-debug.log
+firestore-debug.log
